@@ -1,3 +1,3 @@
 # Syllabus
 
-Here is the Syllabus for the class
+Here is the Syllabus for the class.
